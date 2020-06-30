@@ -1,2 +1,2 @@
 # Minecraft-Mods
-Minecraft Mods Boi
+Go to a different branch (on the top left) for different versions
