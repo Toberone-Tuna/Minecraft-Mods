@@ -1,4 +1,4 @@
-# Minecraft-Mods
+# Minecraft 1.12.2 Mods
 
 Mods for first 1.12.2 modded world.
 
