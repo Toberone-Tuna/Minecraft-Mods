@@ -4,4 +4,4 @@ Mods for 1.16.5 modded create server.
 
 Minecraft Version: 1.16.5 Forge
 
-Requires: Java 8 (Windows Offline 64-Bit), Found here
+Requires: Java 8 (Windows Offline 64-Bit), Found [here](https://www.java.com/en/download/manual.jsp)
