@@ -9,9 +9,8 @@ To download, go to Code>Download ZIP to get a zipped file with the folder of mod
 
 __**Extra Information**__
 <br>
-For connected textures to work from the Continuity mod, you will have to enable the two resource packs it adds automatically.<br>
+**1.** For connected textures to work from the Continuity mod, you will have to enable the two resource packs it adds automatically.<br>
 <br>
-The LambDynamicLights mod can cause lag.<br>
-If it is causing too much lag for you, you can disable and re-enable it anytime you want by setting its main option to whatever you like (**Off, Fastest, Fast, or Fancy**):<br>
+**2.** If the LambDynamicLights is causing too much lag for you, you can disable and re-enable it anytime you want by setting its main option to whatever you like (**Off, Fastest, Fast, or Fancy**):<br>
 You can access the main option for LambDynamicLights by going to:<br>
 **Mods** (In menu) > **LambDynamicLights** (In modlist) > **Configure** (Top right of screen)
