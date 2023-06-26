@@ -6,6 +6,6 @@ To download, go to Code>Download ZIP to get a zipped file with the folder of mod
 
 The 'Flan' folder itself should be in the main '.minecraft' folder, while all of the mods go into the 'mods' folder.
 
-Requires: Java 8 (Windows Offline 64-Bit), Found [here](https://www.java.com/en/download/manual.jsp) (Computer restart required after installing)
+**Requires:** Java 8 (Windows Offline 64-Bit), Found [here](https://www.java.com/en/download/manual.jsp) (Computer restart required after installing)
 
-Minecraft Version: Forge 1.12.2 - 14.23.5.2860
+**Minecraft Version:** Forge 1.12.2 - 14.23.5.2860
