@@ -9,3 +9,5 @@ The 'Flan' folder itself should be in the main '.minecraft' folder, while all of
 **Requires:** Java 8 (Windows Offline 64-Bit), Found [here](https://www.java.com/en/download/manual.jsp) (Computer restart required after installing)
 
 **Minecraft Version:** Forge 1.12.2 - 14.23.5.2860
+
+**Note:** I highly recommend allocating at least 4GB of RAM to Minecraft when using these mods.
