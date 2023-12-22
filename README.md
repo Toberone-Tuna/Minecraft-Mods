@@ -1,4 +1,4 @@
-# Minecraft 1.20.1 "Vanilla" Fabric Mods
+# Minecraft 1.20.2 "Vanilla" Fabric Mods
 Fabric mods to enhance vanilla Minecraft 1.20.2.<br>
 These mods can be used on any vanilla world or vanilla Minecraft server.
 
