@@ -10,6 +10,6 @@ Don't forget to put the files inside the 'config' folder into your 'config' fold
 
 **Requires:** Java 8 (Windows Offline 64-Bit), Found [here](https://www.java.com/en/download/manual.jsp) (Computer restart required after installing)
 
-**Minecraft Version:** Forge 1.12.2 - 14.23.5.2860
+**Minecraft Version:** Forge 1.12.2 - 14.23.5.2860, Found [here](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html)
 
 **Note:** I highly recommend allocating 8GB of RAM to Minecraft when using these mods.
