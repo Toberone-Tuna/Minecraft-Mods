@@ -10,4 +10,4 @@ The 'Flan' folder itself should be in the main '.minecraft' folder, while all of
 
 **Minecraft Version:** Forge 1.12.2 - 14.23.5.2860
 
-**Note:** I highly recommend allocating at least 4GB of RAM to Minecraft when using these mods.
+**Note:** I highly recommend allocating 8GB of RAM to Minecraft when using these mods.
