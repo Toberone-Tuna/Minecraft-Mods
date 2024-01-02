@@ -14,7 +14,9 @@ Don't forget to put the files inside the 'config' folder into your 'config' fold
 
 **Note:** I highly recommend allocating 8GB of RAM to Minecraft when using these mods.
 
-**\nKnown Issues:**
+<br>
+<br>
+**Known Issues:**
 
 -Using the Firestarter from the Roots mod crashes the client when used.
 
