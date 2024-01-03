@@ -20,6 +20,8 @@ Don't forget to put the files inside the 'config' folder into your 'config' fold
 
 -Using the Firestarter from the Roots mod crashes the client when used.
 
+-Using certain items in the Roots mod causes VERY high ram usage.
+
 -Buying certain items on MineBay on the computer from MrCrayfish's Furniture mod crashes the server.
 
 -Certain sounds are cut short and/or cut off when in the Twilight Forest dimension.
