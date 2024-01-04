@@ -23,3 +23,5 @@ Don't forget to put the files inside the 'config' folder into your 'config' fold
 -Certain sounds are cut short and/or cut off when in the Twilight Forest dimension.
 
 -The Midnight mod has an error that VanillaFix catches and will constantly spam to the log.
+
+-Wearing the Arrowproof Vest from the SCP: Lockdown mod causes a MASSIVE memory leak that will evenetually make the game unplayable.
