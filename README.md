@@ -24,6 +24,4 @@ Don't forget to put the files inside the 'config' folder into your 'config' fold
 
 -The Midnight mod has an error that VanillaFix catches and will constantly spam to the log.
 
--Wearing the Arrowproof Vest from the SCP:Lockdown mod causes a MASSIVE memory leak that will eventually make the game unplayable.
-
--Wearing the Hazmat Suit from the SCP:Lockdown mod causes framerate issues for everyone who sees the player wearing it and the only way to fix it is restarting the game.
+-Wearing the special 3d-model armor from the SCP:Lockdown mod (Arrowproof Vest, Hazmat Suit, NightVision Goggles, etc.) causes a MASSIVE memory leak and framerate issues that will eventually make the game unplayable and the only way to fix it is restarting the game and never wearing the armor.
