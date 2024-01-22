@@ -25,3 +25,5 @@ Don't forget to put the files inside the 'config' folder into your 'config' fold
 -The Midnight mod has an error that VanillaFix catches and will constantly spam to the log.
 
 -Wearing the special 3d-model armor from the SCP:Lockdown mod (Arrowproof Vest, Hazmat Suit, NightVision Goggles, etc.) causes a MASSIVE memory leak and framerate issues that will eventually make the game unplayable and the only way to fix it is restarting the game and never wearing the armor.
+
+-Wearing the Crown of Rule fomr Fish's Undead Rising will cause a memory leak.
