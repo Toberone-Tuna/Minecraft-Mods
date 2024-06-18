@@ -1,5 +1,5 @@
 # Minecraft 1.20.6 "Vanilla" Fabric Mods
-Fabric mods to enhance vanilla Minecraft 1.20.4.<br>
+Fabric mods to enhance vanilla Minecraft 1.20.6.<br>
 These mods can be used on any vanilla world or vanilla Minecraft server.
 
 To download, go to Code>Download ZIP to get a zipped file with the folder of mods inside of it. (The mods folder ITSELF that the mods are in should be in the same folder as a README.md file)
