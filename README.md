@@ -7,6 +7,7 @@ To download, go to Code>Download ZIP to get a zipped file with the folder of mod
 **Requires:** Java 21, Found [here](https://download.oracle.com/java/21/archive/jdk-21.0.8_windows-x64_bin.exe) (Computer restart required after installing)
 
 **Minecraft Version:** Fabric 1.21.11, Found [here](https://fabricmc.net/use/installer/) (Java 21 has to be installed to use)
+
 __**Extra Information**__
 <br>
 **1.** For connected textures to work from the Continuity mod, you will have to manually enable the two resource packs it adds automatically.<br>
